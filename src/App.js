@@ -17,7 +17,7 @@ function App() {
         >
           nuevas piesas para el repositorio cambios
         </a>
-        <div>hola pruebas</div>
+        <div>hola pruebas<a href="">nuevooo</a></div>
       </header>
     </div>
   );
